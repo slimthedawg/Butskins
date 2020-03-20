@@ -1,0 +1,8 @@
+Use this file to edit your bitskins api key and/or google authenticator code. You must change this before
+you start the program. It does not work to edit while the program is running.
+
+
+#login_user{
+	bitskins-api-key><
+	google-auth-key><
+}
