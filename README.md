@@ -15,10 +15,11 @@ The Youtube Setup Tutorial is also available here:
 https://www.youtube.com/watch?v=n36d5N2YfHA&t=541s
 
 *Important - All images can not be uploaded to the Github since they only take in 100 at a time and there is 4663 weapon images in total              so either download them all from images/weapons from the Google Drive or download everything from the drive since it takes              waaay too long to upload everyone.
+ 
+ 
 
-
-Q/A
-
+ 
+Q/A     
 Q: Why upload now?
 A: I recently stopped trading with bitskins since their 15% fee and I basically stopped trading at all (still got some passive investments) and figured I might give some back to the csgo community :)
 
