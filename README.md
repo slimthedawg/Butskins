@@ -14,7 +14,7 @@ https://www.patreon.com/SlimGravy
 The Youtube Setup Tutorial is also available here:                                   
 https://www.youtube.com/watch?v=n36d5N2YfHA&t=541s
 
-
+*Important - All images can not be uploaded to the Github since they only take in 100 at a time and there is 4663 weapon images in total              so either download them all from images/weapons from the Google Drive or download everything from the drive since it takes              waaay too long to upload everyone.
 
 
 Q/A
