@@ -20,13 +20,13 @@ https://www.youtube.com/watch?v=n36d5N2YfHA&t=541s
 
  
 Q/A     
-Q: Why upload now?
+Q: Why upload now?                                                                                                                  
 A: I recently stopped trading with bitskins since their 15% fee and I basically stopped trading at all (still got some passive investments) and figured I might give some back to the csgo community :)
 
-Q: Is it free?
+Q: Is it free?                                                                                                                  
 A: Yes
 
-Q: Will you take request for changes?
+Q: Will you take request for changes?                                                                                              
 A: Probably not, it's been a while since I did this project and I got other things to do(again why I give it away).
 
 
