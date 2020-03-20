@@ -6,7 +6,7 @@ Welcome to this Butskins repository!
 
 
 
-This file is ment to give an introduction to my program "Butskins" which easily enough is a trading tool for Bitskins using their API as well as Steam API. The program will not trade any skins, only show skins and generate the link for any particular item, both for bitskins and steam. This is mainly a low-leveled sequrity feature as well as a protection from doing bad trading. Furthermore, it provides the used with vital information about any particular skin inside the bitskins servers, with respective comparisons to their steam information.
+This file is ment to give an introduction to my program "Butskins" which easily enough is a trading tool for Bitskins using their API as well as Steam API. The program will not trade any skins, only show skins and generate the link for any particular item, both for bitskins and steam. This is mainly a low-leveled sequrity feature as well as a protection from doing bad trading. Furthermore, it provides the user with vital information about any particular skin inside the bitskins servers, with respective comparisons to their steam information.
 
 This program is free of use and Donations are warmly welcomed at my newly created patreon account :)
 https://www.patreon.com/SlimGravy
